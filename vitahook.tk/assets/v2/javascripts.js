@@ -1,5 +1,5 @@
 
-					var msg  = document.title ="DINKZ";
+					var msg  = document.title ="SINGULARITY.ID";
 					var speed = 300;
 					var endChar = " ";
 					var pos = 0;
